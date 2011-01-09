@@ -660,7 +660,7 @@ generate a TOC in output.
 article/appendix  nop
 /article  toc,title
 book      toc,title,figure,table,example,equation
-/chapter  title
+/chapter  toc,title
 part      toc,title
 /preface  toc,title
 reference toc,title
